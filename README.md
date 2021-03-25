@@ -14,10 +14,10 @@
 - [X] 웹팩 강의 수강하기
 
 ## 1-3. 면접 및 개인 학습
-- [ ] 조용구님 블로그 - 설계 섹션 공부하기\
+- [ ] 조용구님 블로그 - 설계 섹션 공부하기
 
 -https://chodragon9.github.io/
-- [ ] 면접 질문 학습하기\
+- [ ] 면접 질문 학습하기
 
 -https://joshua1988.github.io/web-development/interview/frontend-questions/
 -https://joshua1988.github.io/web-development/javascript/javascript-interview-3questions/
