@@ -29,6 +29,10 @@
 
 https://www.youtube.com/user/kentdoddsfamily
 
+## P.S.
+- array-related functions: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
+- every(), some(), find(), findIndex(), etc
+
 # 2. 포트폴리오 정리
 ## 2-1. 개인 공부 학습한 것 적용
 - [ ] for문 3가지 정리하기
