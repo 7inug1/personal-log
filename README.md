@@ -19,7 +19,7 @@
 -https://chodragon9.github.io/
 - [ ] 면접 질문 학습하기
 
--https://joshua1988.github.io/web-development/interview/frontend-questions/
+-https://joshua1988.github.io/web-development/interview/frontend-questions/\
 -https://joshua1988.github.io/web-development/javascript/javascript-interview-3questions/
 - [ ] localStorage & SessionStorage & Cookie 이론적 차이점 + 실제 코드에 세 경우 적용해보기
 - [ ] git ignore 학습
