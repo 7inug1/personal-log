@@ -1,7 +1,8 @@
 # TODO
 # 1. 학습
 ## 1-1. JS 문법 및 ES6
-- [ ] for문 3가지 (forEach, for in, for of)
+- [X] for문 3가지 (forEach, for in, for of)
+- 
 - [ ] Array 고차 함수 (map, filter, reduce 등)
 - [ ] this 학습하기
 - [ ] 콜백 함수 학습하기
@@ -35,7 +36,9 @@ https://www.youtube.com/user/kentdoddsfamily
 
 # 2. 포트폴리오 정리
 ## 2-1. 개인 공부 학습한 것 적용
-- [ ] for문 3가지 정리하기
+- [X] for문 3가지 적용하기
+- 모든 포트폴리오에 적용 완료
+- noteApp의 App.js에 존재하는 localStorage 관련 for-loop에 적용 아직 못함
 - [ ] Array 고차 함수 적용하기
 - [ ] 안쓰는 코드 정리하기
 - [x] Prettier & ESLint 설정 후 적용하기
