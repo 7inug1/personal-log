@@ -2,7 +2,7 @@
 # 1. 학습
 ## 1-1. JS 문법 및 ES6
 - [X] for문 3가지 (forEach, for in, for of) (3/25 목)
-- [ ] Array 고차 함수 (map, filter, reduce 등)
+- [X] Array 고차 함수 (map, filter, reduce 등)
 - [ ] this 학습하기
 - [ ] 콜백 함수 학습하기
 - [ ] 오브젝트 클론 - Object.assign()
