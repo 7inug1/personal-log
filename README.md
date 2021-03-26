@@ -1,8 +1,7 @@
 # TODO
 # 1. 학습
 ## 1-1. JS 문법 및 ES6
-- [X] for문 3가지 (forEach, for in, for of)
-- 
+- [X] for문 3가지 (forEach, for in, for of) (3/25 목)
 - [ ] Array 고차 함수 (map, filter, reduce 등)
 - [ ] this 학습하기
 - [ ] 콜백 함수 학습하기
@@ -26,7 +25,7 @@
 - [ ] localStorage & SessionStorage & Cookie 이론적 차이점 + 실제 코드에 세 경우 적용해보기
 - [ ] git ignore 학습
 - [ ] Open Graph Protocol 학습 (중요도 낮음, 포트폴리오 개선 위해)
-- [ ] Kent C. DoddsYoutube 시청 (중요도 낮음)
+- [ ] Kent C. Dodds Youtube 시청 (중요도 낮음)
 
 https://www.youtube.com/user/kentdoddsfamily
 
@@ -37,15 +36,14 @@ https://www.youtube.com/user/kentdoddsfamily
 # 2. 포트폴리오 정리
 ## 2-1. 개인 공부 학습한 것 적용
 - [ ] const 적용하기
-- [X] for문 3가지 적용하기
-- 모든 포트폴리오에 적용 완료
-- noteApp의 App.js에 존재하는 localStorage 관련 for-loop에 적용 아직 못함
+- [X] for문 3가지 적용하기 (3/25 목)
+- 모든 포트폴리오에 적용 완료 (3/25 목) [X]
+- noteApp의 App.js에 존재하는 localStorage 관련 for-loop에 적용 아직 못함 (3/25 목) [ ]
 - [ ] Array 고차 함수 적용하기
 - [ ] 안쓰는 코드 정리하기
 - [x] Prettier & ESLint 설정 후 적용하기
 - [ ] ESLint 규칙(개인적으로 선호하는 규칙 집합 1개 정도 생성)
 - [ ] bind() 빼고 넣을 때의 this가 무엇인지 알아보기
-- [ ]
 ## 2-2. 각 포트폴리오 개선점
 ### 1) HTML5 WebRTC & Canvas API 포트폴리오 
 #### To Do
