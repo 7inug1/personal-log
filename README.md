@@ -9,6 +9,16 @@
 
 ## 1-2. 리액트
 - [ ] 리액트 일반적인 폴더 구조 학습하기 (왜 하는지, 했을 때의 효과)
+- https://reactjs.org/docs/faq-structure.html
+- 1.Group by features or routes
+  - Make a folder by feature or route
+  - Put related CSS, JS, and tests together inside 
+  - - For instance, make folder of 'common', 'feed', and 'profile'
+- 2.Group by file type
+  - Group similar files together
+  - For instance, make folder of 'api' and 'components'
+- Avoid too much nesting: consider limiting yourself to a maximum of three or four nested folders within a single project. 
+- Don't overthink it: You’ll likely want to rethink the file structure anyway after you’ve written some real code, so just start within 5 minutes.
 - [ ] 리액트 functional component 학습하기
 - [ ] 리액트 hook 학습하기
 - [ ] 리액트 Eject 이해하기 (개발환경 관련)
