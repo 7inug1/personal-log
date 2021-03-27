@@ -36,7 +36,9 @@ https://www.youtube.com/user/kentdoddsfamily
 
 # 2. 포트폴리오 정리
 ## 2-1. 개인 공부 학습한 것 적용
-- [ ] const 적용하기
+- [X] const 적용하기
+- noteApp은 App.jsx에만 let이 있고 수정해야 함
+- dogAPI는 Details.js에만 let이 있고 수정해야 함
 - [X] for문 3가지 적용하기 (3/25 목)
 - 모든 포트폴리오에 적용 완료 (3/25 목) [X]
 - noteApp의 App.js에 존재하는 localStorage 관련 for-loop에 적용 아직 못함 (3/25 목) [ ]
