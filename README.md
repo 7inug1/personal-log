@@ -86,6 +86,7 @@ https://www.youtube.com/user/kentdoddsfamily
 #### To Do
 - [X] 코드 최적화(prettier&ESLint 적용)
 - [X] 스타일링 개선하기
+- [X] 파일 구조 재정립
 - [ ] form 스타일링 개선하기
 - [ ] tag 버튼 적용/해제를 토글링으로 바꾸기
 - [ ] Desktop 
