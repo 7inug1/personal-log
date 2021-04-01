@@ -87,11 +87,11 @@ https://www.youtube.com/user/kentdoddsfamily
 - [X] 코드 최적화(prettier&ESLint 적용)
 - [X] 스타일링 개선하기
 - [X] 파일 구조 재정립
-- [ ] form 스타일링 개선하기
+- [X] form 스타일링 개선하기
 - [ ] tag 버튼 적용/해제를 토글링으로 바꾸기
-- [ ] Desktop 
+- [X] Desktop 
 #### 한계점
-- [ ] 현업에서 쓰이는 노트 툴과 같은 스타일링이 어려움
+- [X] 현업에서 쓰이는 노트 툴과 같은 스타일링이 어려움
 #### Future To Do
 - [ ] Grid의 각각의 아이템을 접을 수 있는 기능
 
